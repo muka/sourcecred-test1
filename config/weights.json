@@ -1,0 +1,10 @@
+[
+    {
+        "type": "sourcecred/weights",
+        "version": "0.2.0"
+    },
+    {
+        "edgeWeights": {},
+        "nodeWeights": {}
+    }
+]
